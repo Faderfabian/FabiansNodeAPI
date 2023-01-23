@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    
+}
+
+h1 {
+    font-family: 'Titan One', serif;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: 'Titan One', serif;
+    color: black;
+    text-align: center;
+}
